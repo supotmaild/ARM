@@ -5,6 +5,7 @@
 - into the wide and large area 
 
 - This project make for poor farmers in Thailand
+- ![ARM Water](http://www.thaipackagetour.com/imgs/travel/big/Travel_20110425114005.jpg "Poor farm in Thailand")
 -
 - ARM Code Club
 -
